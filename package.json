@@ -1,7 +1,12 @@
 {
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
-    "express": "^4.18.1"
+    "dayjs": "^1.11.2",
+    "express": "^4.18.1",
+    "joi": "^17.6.0",
+    "mongodb": "^4.5.0",
+    "uuid": "^8.3.2"
   },
   "name": "projeto13-mywallet-back",
   "version": "1.0.0",
@@ -13,5 +18,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mathchong/projeto13-mywallet-back.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mathchong/projeto13-mywallet-back/issues"
+  },
+  "homepage": "https://github.com/Mathchong/projeto13-mywallet-back#readme",
   "description": ""
 }
